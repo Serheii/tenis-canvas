@@ -1,0 +1,11 @@
+    #canvas {
+    margin: 10px;
+   }
+   #start {
+    float: left;
+   }
+   #score {
+    width: 600px;
+    text-align: center;
+    color: brown;
+   }
